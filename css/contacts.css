@@ -1,0 +1,49 @@
+.contacts {
+  width: 100%;
+  padding: 100px 0 100px;
+  background-color: #3a3e64;
+  background-size: cover;
+}
+
+.contacts-item-title {
+  font-family: "Raleway";
+  font-size: 1.8rem;
+  color: #ffffff;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.contacts-item-discription {
+  font-family: "Raleway";
+  font-size: 1.6rem;
+  color: #ffffff;
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.contacts-item-discription a {
+  text-decoration: none;
+  color: #e84545;
+}
+
+.contacts-item-adress {
+  margin-top: 2.6rem;
+}
+
+.contacts-item-adress p {
+  font-family: "Raleway";
+  font-size: 1.2rem;
+  color: #ffffff;
+  text-align: center;
+}
+
+.contacts-name {
+  margin-top: 2.2rem;
+}
+
+.contacts-name h4 {
+  font-family: "Open Sans";
+  font-size: 0.875rem;
+  color: #ffffff;
+  text-align: center;
+}
