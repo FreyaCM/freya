@@ -1,1 +1,1 @@
-# web site of company "Freya CM"
+# website of company "Freya CM"
